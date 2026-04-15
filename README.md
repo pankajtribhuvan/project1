@@ -1,2 +1,6 @@
-# project1
-This is my First Project
+
+
+
+
+This is sample project.
+Made by Rytham & Rajshree.
